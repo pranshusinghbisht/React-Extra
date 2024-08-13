@@ -28,6 +28,29 @@
 
 
 
+### 4. Working of React
+
+1. No need to worry about querying and updating DOM
+
+2. React creates a web page with small and reusable components
+
+3. React will take care of creating and updating the DOM elements.
+
+4. IT saves a lot of time.
+
+### 5. JS vs React
+
+1. JS is imperative language: You define steps to reach your desired state.
+
+2. React is Declarative language: You only specify what to do.
+
+### 6. Introduction to Components
+
+- Components are the building blocks of React.
+
+- Components helps us write reusable, modular and better code.
+
+- React application is a tree of components with App Component as root bringing everything together.
 
 
 
