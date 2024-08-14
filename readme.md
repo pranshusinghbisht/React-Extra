@@ -1,66 +1,7 @@
-### 1. What is React?
-
-1. Js library to build Dynamic and interactive user interfaces.
-
-2. Developed at Facebook in 2011
-
-3. Currently most widely used JS library for front-end development.
-
-4. Used to create single-page web apps.
-
-### Working of DOM
-
-1. Browser takes HTML and converts it into DOM.
-
-2. JS helps us modify DOM based on user actions or events.
-
-3. In big applications, Working with DOM becomes complex and time consuming.
-
-### Problems with Javascript
-
-1. React has a simpler mental model.
-
-2. JS is cumbersome
-
-3. JS is Error-prone
-
-4. JS is Hard to maintain
+Day1:
+ - Introduction { React and Components}
+ - Create React App {IDE, Using Vite, Project Structure}
 
 
-
-### 4. Working of React
-
-1. No need to worry about querying and updating DOM
-
-2. React creates a web page with small and reusable components
-
-3. React will take care of creating and updating the DOM elements.
-
-4. IT saves a lot of time.
-
-### 5. JS vs React
-
-1. JS is imperative language: You define steps to reach your desired state.
-
-2. React is Declarative language: You only specify what to do.
-
-### 6. Introduction to Components
-
-- Components are the building blocks of React.
-
-- Components helps us write reusable, modular and better code.
-
-- React application is a tree of components with App Component as root bringing everything together.
-
-
-
-
-
-
-
-
-
-
-
-
-
+Day2:
+ - Creating React Components {File Extensions, Class vs Function Components, JSX, Dynamic and Reusable components}
