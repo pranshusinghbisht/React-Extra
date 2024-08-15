@@ -5,3 +5,6 @@ Day1:
 
 Day2:
  - Creating React Components {File Extensions, Class vs Function Components, JSX, Dynamic and Reusable components}
+
+Day3: 
+ - Projects (1,2)
